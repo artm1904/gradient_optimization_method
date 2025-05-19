@@ -1,0 +1,6 @@
+.clang-format
+.vscode
+build/
+contrib/
+boxplot.png
+output.txt
