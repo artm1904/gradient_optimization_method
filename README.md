@@ -14,7 +14,11 @@ in main.cpp file set up the following paramentrs;
 
 
   usage:
+
   cmake -S . -B build/
+
   cmake --build build
+
   ./build/lr2 > output.txt
+
   python3 main.py
